@@ -63,13 +63,13 @@ Backend: http://localhost:8000
 
 #### Documentation
 
-- [Charte graphique](https://github.com/3x0De/Dotted-docs/Charte.pdf)
-- [Installation](https://github.com/3x0De/Dotted-docs/INSTALLATION.md)
-- [Architecture](https://github.com/3x0De/Dotted-docs/ARCHITECTURE.md)
-- [Developement](https://github.com/3x0De/Dotted-docs/DEVELOPMENT.md)
-- [Deployment](https://github.com/3x0De/Dotted-docs/DEVELOPEMENT.md)
-- [Changelog](https://github.com/3x0De/Dotted-docs/CHANGELOG.md)
-  - [Web](https://github.com/3x0De/Dotted-web/CHANGELOG.md)
-  - [Backend](https://github.com/3x0De/Dotted-back/CHANGELOG.md)
-- [Licence](https://github.com/3x0De/Dotted-docs/LICENSE)
-- [FAQ](https://github.com/3x0De/Dotted-docs/FAQ.md)
+- [Charte graphique](https://github.com/3x0De/Dotted-docs/blob/main/Charte.pdf)
+- [Installation](https://github.com/3x0De/Dotted-docs/blob/main/INSTALLATION.md)
+- [Architecture](https://github.com/3x0De/Dotted-docs/blob/main/ARCHITECTURE.md)
+- [Developement](https://github.com/3x0De/Dotted-docs/blob/main/DEVELOPMENT.md)
+- [Deployment](https://github.com/3x0De/Dotted-docs/blob/main/DEVELOPEMENT.md)
+- [Changelog](https://github.com/3x0De/Dotted-docs/blob/main/CHANGELOG.md)
+  - [Web](https://github.com/3x0De/Dotted-web/blob/main/CHANGELOG.md)
+  - [Backend](https://github.com/3x0De/Dotted-back/blob/main/CHANGELOG.md)
+- [Licence](https://github.com/3x0De/Dotted-docs/blob/main/LICENSE)
+- [FAQ](https://github.com/3x0De/Dotted-docs/blob/main/FAQ.md)

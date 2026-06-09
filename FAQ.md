@@ -3,7 +3,7 @@
 ### Pourquoi Dotted ?
 
 > Aujourd'hui nous vivons dans un système ou les grandes entreprises collectent nos données.
-> C'est dans ce désir d'autosuffisance je crée [3x0De](https://github.com/3x0De) et `Dotted` fait office de Notion like.
+> C'est dans ce désir d'autosuffisance que j'ai créée [3x0De](https://github.com/3x0De) et `Dotted` fait office de Notion like.
 
 ### Pourquoi React ?
 

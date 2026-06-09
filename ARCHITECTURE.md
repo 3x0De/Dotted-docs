@@ -8,15 +8,11 @@
 - une API backend
 - une base de données
 
----
-
 ## Frontend
 
 | Plateforme | Technos                 |
 | ---------- | ----------------------- |
 | Web        | `Vite` + `React` + `Ts` |
-
----
 
 ## Architecture globale
 
@@ -38,8 +34,6 @@ Rôle :
 - Gestion de l’état de l’application
 - Communication avec l’API via HTTP
 
----
-
 ## Backend
 
 Le backend est une API développée avec FastAPI (Python).
@@ -47,8 +41,6 @@ Le backend est une API développée avec FastAPI (Python).
 Rôle :
 
 - Communication avec la base de données
-
----
 
 ## Base de données
 

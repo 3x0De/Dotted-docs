@@ -12,6 +12,7 @@ besoins de sa créatrice.
 - Interface web
   - Blocks élémentaires
   - Gestion des pages
+  - Gestion des utilisateurs
 - API
 
 #### ARCHITECTURE

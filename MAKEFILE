@@ -6,7 +6,21 @@ Clone: racine
 	git clone https://github.com/3x0De/Dotted-web.git
 	git clone https://github.com/3x0De/Dotted-back.git
 
-Init: Clone
+Icon-web:
+	cd Dotted-web/src/asset/Icons
+	git clone --filter=blob:none --no-checkout https://github.com/Remix-Design/RemixIcon.git tmp
+	cd tmp && git sparse-checkout init --cone
+	cd tmp && git sparse-checkout set icons
+	cd tmp && git checkout
+
+Icon-back:
+	cd Dotted-back/Image/Icon
+	git clone --filter=blob:none --no-checkout https://github.com/Remix-Design/RemixIcon.git tmp
+	cd tmp && git sparse-checkout init --cone
+	cd tmp && git sparse-checkout set icons
+	cd tmp && git checkout
+
+Init: Clone Icon-web racine racine racine racine Icon-back racine racine racine
 	cd Dotted-web && npm install
 	cd Dotted-back && docker compose up --build
 

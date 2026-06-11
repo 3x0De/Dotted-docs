@@ -35,21 +35,11 @@ L’ensemble est conteneurisé avec [Docker](https://www.docker.com/) pour le d�
 
 #### INSTALLATION RAPIDE
 
-Dans un premier terminal
+Ouvrez un terminal a la racine de ce repo
 
 ```bash
-git clone https://github.com/3x0De/Dotted-back.git
-cd Dotted-back
-docker compose up --build
-```
-
-Dans un second terminal
-
-```bash
-git clone https://github.com/3x0De/Dotted-web.git
-cd Dotted-web
-npm install
-npm run dev
+make Init # Pour la premère instalation
+make
 ```
 
 #### Repos

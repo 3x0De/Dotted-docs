@@ -1,8 +1,12 @@
 # Changelog
 
+## [0.2.0] - 12/06/2026
+
+- Ajout du block de document
+
 ## [0.1.3] - 11/06/2026
 
-- Instalation rapide
+- Installation rapide
 
 ## [0.1.2] - 11/06/2026
 
